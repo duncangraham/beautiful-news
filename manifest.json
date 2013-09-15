@@ -14,6 +14,11 @@
       "css": ["wapo.css"],
       "js": ["wapo.js"],
       "run_at": "document_end"
+    },
+    {
+      "matches": ["*://*.nytimes.com/*/*/*/*"],
+      "css": ["nyt.css"],
+      "run_at": "document_end"
     }
   ]
 }

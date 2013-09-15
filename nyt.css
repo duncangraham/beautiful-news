@@ -1,0 +1,23 @@
+.cColumn { display: none !important; }
+.articleInline.runaroundLeft { display: none; }
+#readerscomment { display: none; }
+.shareTools.shareToolsThemeClassic.articleShareToolsTop.shareToolsInstance { display: none; }
+
+#shell { width:96% !important; }
+#page { width:100% !important; }
+.abColumn { width: 100% !important; }
+#article { 
+font-size: 1.25em;
+width: 800px !important;
+margin: 0px auto !important;
+}
+
+.w600, .articleSpanImage, .slideshowHorizontal{ width: 100% !important; }
+
+ .articleSpanImage img { width: 100% !important; height: 100% !important; }
+
+.spanAB { background:#FFFFFF !important; } /* annoying, sneaky border */
+
+#masthead h2 { margin: 0px auto !important; }
+
+.articleHeadline { text-align: center; margin: .3em 0em .8em 0em !important; }
